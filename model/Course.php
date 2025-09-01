@@ -1,5 +1,4 @@
 <?php
-// model/Course.php
 
 class Course {
     private $conn;
