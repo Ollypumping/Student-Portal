@@ -1,5 +1,5 @@
 <?php
-require_once('../../controller/student/StudentController.php');
+require_once('../../controller/student/StudentAuthController.php');
 ?>
 <!DOCTYPE html>
 <html>
