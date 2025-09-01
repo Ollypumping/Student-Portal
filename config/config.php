@@ -1,10 +1,10 @@
 <?php
 
 // To connect to the database
-$host = "localhost";
-$username = "root";
-$password = "";
-$database = "student_portal";
+$host = "bikowq677thdrnuxwsan-mysql.services.clever-cloud.com";
+$username = "uvzfr3yx7czbfwrb";
+$password = "3NPkt1kfWOReDtBHOwln";
+$database = "bikowq677thdrnuxwsan";
 
 $conn = new mysqli($host, $username, $password, $database);
 
